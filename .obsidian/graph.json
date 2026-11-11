@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"assets/Excalidraw\"",
+      "color": {
+        "a": 1,
+        "rgb": 7268279
+      }
+    },
+    {
+      "query": "path:\"Studium/Semester 1/Grundlagen der Informationssicherheit/VORLESUNGEN\"",
+      "color": {
+        "a": 1,
+        "rgb": 6220500
+      }
+    },
+    {
+      "query": "path:\"Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES\"",
+      "color": {
+        "a": 1,
+        "rgb": 6809849
+      }
+    },
+    {
+      "query": "path:\"Studium/Semester 1/Grundlagen der Informatik - 1/NOTES\"",
+      "color": {
+        "a": 1,
+        "rgb": 10980346
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0534979423868278,
+  "close": true
+}

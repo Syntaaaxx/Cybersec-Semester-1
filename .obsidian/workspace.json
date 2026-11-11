@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studium/~ HUB <> SEM1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "~ HUB <> SEM1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7daf5facda57ea01",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf1abeecf745e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bf1267f1bc79bb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b5c8de5aa398a68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#define",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4610b4071e875f5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.500057220459
+  },
+  "right": {
+    "id": "28c893769a6ef8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1169da4d9db31fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1081f58542f5df22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Hammingcode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "950955f09b7b8ef3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0246ac624a4d6f4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "295382bd7d207ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Aussagenlogik.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4842da5274ec9342",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "6a292e7cc2b94e09",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
+          },
+          {
+            "id": "abd1218b11b36431",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
+          },
+          {
+            "id": "fbd658916f18ce5f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "d89245f0306377ce",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "c8a6fd7419bb7c63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Aussagenlogik.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e49ca0badb81c6fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph-styler-panel",
+              "state": {},
+              "icon": "palette",
+              "title": "Graph Styler"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "juggl:Juggl global graph": false,
+      "homepage:Open homepage": false,
+      "graph-styler:Graph Styler": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Studium/~ HUB <> SEM1.md",
+    "Studium/Semester 1/Betriebssysteme und Netzwerke/Bash und Console Commands.md",
+    "Studium/Semester 1/infos/IT Einrichtung.md",
+    "Studium/Semester 1/Mathematik 1/08.10.26 - Erste Übung.md",
+    "Studium/Semester 1/infos/Infos Quitschietage.md",
+    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Aussagenlogik.md",
+    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Hammingcode.md",
+    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/ASCII.md",
+    "assets/Übungsblatt_6.pdf",
+    "assets/Pasted image 20261110161427.png",
+    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Verknüpfungsbasis.md",
+    "assets/Übungsblatt_5.pdf",
+    "Dashboard-Komorebi.md",
+    "Studium/Semester 1/SQ-1/Medienkompetenz uns Selbstorganisation/Übung Wissen »» 09.11.26.md",
+    "Studium/Semester 1/PLV/Praxisreflexionsworkshop/Reflexionsübung 1.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Kryptologie.md",
+    "Studium/Semester 1/PLV/Praxisreflexionsworkshop",
+    "Studium/Semester 1/PLV",
+    "Excalidraw/Drawing 2026-11-05 11.57.04.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-05 11.47.51.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-05 11.27.35.excalidraw.md",
+    "Excalidraw",
+    "assets/Pasted image 20261105112532.png",
+    "Dashboard-Komorebi.css",
+    "Untitled.base",
+    "Untitled",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Grundfunktionen von Sicherheitssystemen.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Wer sind die Gegner?.md",
+    "Hausaufgaben/Hausaufgaben.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Zugriffmanagement.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/VORLESUNGEN/5. Vorlesung.md",
+    "assets/Pasted image 20261103160320.png",
+    "assets/Pasted image 20261103160206.png",
+    "Studium/Semester 1/Prüfungsplan.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Einführung + Begriff Sicherheit.md",
+    "Studium/Semester 1/Programmierung-1/Erste Vorlesung - 06.10.26.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/VORLESUNGEN/Vierte Vorlesung - 29.10.26.md",
+    "assets/Excalidraw/Drawing 2026-10-27 16.00.58.excalidraw.md",
+    "assets/Übungsblatt_3.pdf",
+    "Untitled.canvas",
+    "assets/Pasted image 20261027142622.png",
+    "assets/Kostenvergleich.pdf",
+    "assets/Pasted image 20261020162402.png",
+    "Ink/Drawing/2026.10.8 - 16.20pm.svg",
+    "Ink/Writing/2026.10.8 - 16.20pm.svg",
+    "assets/Pasted image 20261008112425.png",
+    "assets/Pasted image 20261006091334.png"
+  ]
+}

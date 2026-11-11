@@ -1,0 +1,12 @@
+{
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 17,
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrainsMono Nerd Font Propo",
+  "baseFontSizeAction": true,
+  "accentColor": "#2273dd",
+  "enabledCssSnippets": [
+    "Dashboard-Komorebi",
+    "graph-styler-aurora"
+  ]
+}
