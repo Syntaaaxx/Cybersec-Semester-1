@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/Syntaaaxx/CY-1.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
