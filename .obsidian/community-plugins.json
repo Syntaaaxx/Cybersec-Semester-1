@@ -10,5 +10,5 @@
   "homepage",
   "dataview",
   "graph-styler",
-  "github-sync"
+  "github-gitless-sync"
 ]
