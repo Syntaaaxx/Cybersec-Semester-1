@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Studium/~ HUB <> SEM1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "~ HUB <> SEM1"
             }
           }
         ]
@@ -254,13 +258,24 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Risikomanagement.md",
     "Studium/~ HUB <> SEM1.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/TARA-Template.md",
     "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/RSA.md",
+    "TARA_Template.xlsx",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Cryptool.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Kryptologie.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Wer sind die Gegner?.md",
+    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Zugriffmanagement.md",
     "Studium/Semester 1/Betriebssysteme und Netzwerke/Bash und Console Commands.md",
+    "Studium/Semester 1/Betriebssysteme und Netzwerke/BegriffeUndBefehle.md",
+    "Studium/Semester 1/Betriebssysteme und Netzwerke/Commands.md",
+    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Schaltungen und Rechnerarchitektur.md",
+    "assets/Pasted image 20261117164300.png",
+    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Aussagenlogik.md",
     "Studium/Semester 1/infos/IT Einrichtung.md",
     "Studium/Semester 1/Mathematik 1/08.10.26 - Erste Übung.md",
     "Studium/Semester 1/infos/Infos Quitschietage.md",
-    "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Aussagenlogik.md",
     "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/Hammingcode.md",
     "Studium/Semester 1/Grundlagen der Informatik - 1/NOTES/ASCII.md",
     "assets/Übungsblatt_6.pdf",
@@ -270,7 +285,6 @@
     "Dashboard-Komorebi.md",
     "Studium/Semester 1/SQ-1/Medienkompetenz uns Selbstorganisation/Übung Wissen »» 09.11.26.md",
     "Studium/Semester 1/PLV/Praxisreflexionsworkshop/Reflexionsübung 1.md",
-    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Kryptologie.md",
     "Studium/Semester 1/PLV/Praxisreflexionsworkshop",
     "Studium/Semester 1/PLV",
     "Excalidraw/Drawing 2026-11-05 11.57.04.excalidraw.md",
@@ -282,24 +296,14 @@
     "Untitled.base",
     "Untitled",
     "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Grundfunktionen von Sicherheitssystemen.md",
-    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Wer sind die Gegner?.md",
-    "Hausaufgaben/Hausaufgaben.md",
-    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Zugriffmanagement.md",
-    "Studium/Semester 1/Grundlagen der Informationssicherheit/VORLESUNGEN/5. Vorlesung.md",
     "assets/Pasted image 20261103160320.png",
     "assets/Pasted image 20261103160206.png",
-    "Studium/Semester 1/Prüfungsplan.md",
-    "Studium/Semester 1/Grundlagen der Informationssicherheit/NOTES/Einführung + Begriff Sicherheit.md",
-    "Studium/Semester 1/Programmierung-1/Erste Vorlesung - 06.10.26.md",
-    "Studium/Semester 1/Grundlagen der Informationssicherheit/VORLESUNGEN/Vierte Vorlesung - 29.10.26.md",
     "assets/Übungsblatt_3.pdf",
     "Untitled.canvas",
     "assets/Pasted image 20261027142622.png",
-    "assets/Kostenvergleich.pdf",
     "assets/Pasted image 20261020162402.png",
     "Ink/Drawing/2026.10.8 - 16.20pm.svg",
     "Ink/Writing/2026.10.8 - 16.20pm.svg",
-    "assets/Pasted image 20261008112425.png",
-    "assets/Pasted image 20261006091334.png"
+    "assets/Pasted image 20261008112425.png"
   ]
 }

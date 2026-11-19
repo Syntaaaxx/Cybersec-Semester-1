@@ -43,3 +43,7 @@
 - **Searching:** Use `locate` (relies on a database updated via `updatedb`) or `find` (allows advanced filtering by name, type, and expressions).
     
 - **Archiving:** The `tar` command is commonly used to bundle and extract files (e.g., `tar -cvf` to create an archive and `tar -zxvf` to extract a gzipped archive).
+
+
+
+

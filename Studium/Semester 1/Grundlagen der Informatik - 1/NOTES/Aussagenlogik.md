@@ -136,7 +136,20 @@ $$
 $$
 
 
+## Resolution
+
+Resolutionskalkül
+
+...
+
+Übungsblatt 5 | Aufgabe 6
 
 
 
-
+$$
+f =  \{\{A,B,\neg C\},\{\neg A\},\{A,B,C\},\{A,\neg B\}\\
+\\
+Res(1,3) = \{A,B\} \\
+Res(5,4) = \{A\} \\
+Res(6,2) = \{\}
+$$
